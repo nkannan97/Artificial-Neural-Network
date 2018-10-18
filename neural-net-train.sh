@@ -1,1 +1,0 @@
-python3.6 neural-net.py $1 $2 $3 $4
